@@ -1,0 +1,25 @@
+Objective-C
+PHP
+Haskell
+Perl
+Scala
+Lua
+R
+ActionScript
+Smalltalk
+C++
+GoLang
+TypeScript
+jq (hopefully the problems aren't too complex for this one)
+Kotlin
+Python
+JavaScript
+AutoIt
+Ruby
+Rust
+Java
+C
+F#
+Swift
+Visual Basic
+C#
